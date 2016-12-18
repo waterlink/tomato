@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05a73a38-3517-40f9-bcff-eb480df78737" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache.manifest" afterPath="$PROJECT_DIR$/cache.manifest" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/cache.manifest" afterPath="$PROJECT_DIR$/index.appcache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="tomato.iws" />
@@ -44,8 +44,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cache.manifest" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cache.manifest">
+      <file leaf-file-name="index.appcache" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.appcache">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
@@ -57,11 +57,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="120">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
-                <marker date="1482077000892" expanded="true" signature="1237:1390" ph="..." />
-                <marker date="1482077000892" expanded="true" signature="1330:1358" ph="..." />
+                <marker date="1482077472757" expanded="true" signature="1237:1390" ph="..." />
+                <marker date="1482077472757" expanded="true" signature="1330:1358" ph="..." />
               </folding>
             </state>
           </provider>
@@ -122,8 +122,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/tomato.svg" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/cache.manifest" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -784,12 +784,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482063657202</updated>
-      <workItem from="1482063670152" duration="12676000" />
+      <workItem from="1482063670152" duration="12960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12676000" />
+    <option name="totallyTimeSpent" value="12960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
@@ -898,7 +898,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache.manifest">
+    <entry file="file://$PROJECT_DIR$/index.appcache">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
@@ -908,11 +908,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
-            <marker date="1482077000892" expanded="true" signature="1237:1390" ph="..." />
-            <marker date="1482077000892" expanded="true" signature="1330:1358" ph="..." />
+            <marker date="1482077472757" expanded="true" signature="1237:1390" ph="..." />
+            <marker date="1482077472757" expanded="true" signature="1330:1358" ph="..." />
           </folding>
         </state>
       </provider>
