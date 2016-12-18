@@ -1,12 +1,12 @@
 CACHE MANIFEST
-# v0.0.1
+# v0.0.3
 
 CACHE:
-/favicon.ico
-/index.html
-/css/bootstrap-theme.min.css
-/css/main.css
-/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
-/js/vendor/jquery-3.1.1.min.js
-/js/vendor/bootstrap.min.js
-/js/main.js
+/tomato/favicon.ico
+/tomato/index.html
+/tomato/css/bootstrap-theme.min.css
+/tomato/css/main.css
+/tomato/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+/tomato/js/vendor/jquery-3.1.1.min.js
+/tomato/js/vendor/bootstrap.min.js
+/tomato/js/main.js
