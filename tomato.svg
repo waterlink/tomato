@@ -1,0 +1,12 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="180" height="180"
+     viewBox="0 0 60 60"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <ellipse fill="red" rx="25" ry="20" cx="30" cy="30"/>
+
+    <path fill="none" stroke="green" stroke-width="3" stroke-linecap="round" d="M33,15 Q20,10,30,4"/>
+
+    <ellipse fill="green" rx="7" ry="4" cx="35" cy="5"/>
+</svg>

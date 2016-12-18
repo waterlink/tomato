@@ -1,22 +1,78 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
+.break-time {
+    stroke: green;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+.hidden {
+    display: none;
+}
 
+.header {
+    text-align: center;
+    margin-bottom: 0;
+}
 
+select {
+    width: 10em;
+}
 
+.settings {
+    margin-left: -0.4em;
+    margin-top: -0.3em;
+    font-size: 21px;
+    background: #2C2C2C;
+    height: 0.3em;
+    width: 0.15em;
+    position: absolute;
 
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
 
+    -webkit-box-shadow: 0 0.25em 0 0 #2C2C2C,0 -0.25em 0 0 #2C2C2C,0 -0.55em 0 0.07em #2C2C2C,0 0.55em 0 0.1em #2C2C2C,0 0.9em 0 0.1em #2C2C2C,0 1.2em 0 0.1em #2C2C2C;
+    box-shadow: 0 0.25em 0 0 #2C2C2C,0 -0.25em 0 0 #2C2C2C,0 -0.55em 0 0.07em #2C2C2C,0 0.55em 0 0.1em #2C2C2C,0 0.9em 0 0.1em #2C2C2C,0 1.2em 0 0.1em #2C2C2C;
 
+    right: 2em;
+    top: 1.5em;
+    cursor: pointer;
+}
 
+.settings::before {
+    height: 1.5em;
+    width: 0.3em;
 
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    background: #2C2C2C;
+    position: absolute;
+    content: "";
+    top: -0.2em;
+    left: -0.3em;
+}
 
+.settings::after {
+    height: 0.3em;
+    width: 0.3em;
 
-
-
-
-
-
-
-
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    position: absolute;
+    border: 0.2em solid #2C2C2C;
+    border-top: 0.05em transparent;
+    border-bottom-width: 0.4em;
+    content: "";
+    top: 0.17em;
+    left: 0.55em;
+    border-radius: 25% 25% 25% 25%;
+}

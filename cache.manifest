@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# v0.0.1
+
+CACHE:
+/favicon.ico
+/index.html
+/css/bootstrap-theme.min.css
+/css/main.css
+/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+/js/vendor/jquery-3.1.1.min.js
+/js/vendor/bootstrap.min.js
+/js/main.js
